@@ -36,18 +36,10 @@ Check out the live demo: [QR Code Generator](https://qrcode-jeet.netlify.app/)
 4. Open your browser and navigate to `http://localhost:5173` to see the application in action.
 
 ## User Interface
+![image](https://github.com/user-attachments/assets/1eed08ab-62d1-4012-a7be-4e7f59285c03)
+![image](https://github.com/user-attachments/assets/37de9c9d-bae7-4a4f-9823-4b8d4c3eab58)
 
-### Co-Browser Login Screen
-![Co-Browser Login Screen](path-to-login-screen-image)
 
-### Co-Browser Main UI
-![Co-Browser Main UI](path-to-main-ui-image)
-
-### Co-Browser Two Windows Layout
-![Co-Browser Two Windows Layout](path-to-two-windows-layout-image)
-
-### Co-Browser Video
-![Co-Browser Video](path-to-video)
 
 ## Conclusion
 The QR Code Generator is a simple yet powerful tool for generating and downloading QR Codes. The project demonstrates the use of React and Tailwind CSS for building responsive and interactive user interfaces.
