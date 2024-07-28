@@ -37,7 +37,8 @@ Check out the live demo: [QR Code Generator](https://qrcode-jeet.netlify.app/)
 
 ## User Interface
 ![image](https://github.com/user-attachments/assets/1eed08ab-62d1-4012-a7be-4e7f59285c03)
-![image](https://github.com/user-attachments/assets/37de9c9d-bae7-4a4f-9823-4b8d4c3eab58)
+![image](https://github.com/user-attachments/assets/25e323b9-1fa2-486c-b715-1555d72dedff)
+
 
 
 
